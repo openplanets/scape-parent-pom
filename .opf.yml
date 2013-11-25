@@ -1,7 +1,7 @@
 name: SCAPE Project Parent POM
 vendor: SCAPE        
 maintainer:
-        name: Carl Wilson
-        email: carl@openplanetsfoundation.org
-        name: Will Palmer
-        email: william( DOT)palmer( AT )bl( DOT )uk
+  name: Carl Wilson
+    email: carl@openplanetsfoundation.org
+  name: Will Palmer
+    email: william( DOT)palmer( AT )bl( DOT )uk
