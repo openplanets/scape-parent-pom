@@ -4,9 +4,9 @@ Tagline (one phrase).
 
 ### What does X do?
 
-Describe in a few sentences what is the purpose of X.
+Describe in a few sentences what the purpose is of your tool and where it fits into the workflow.
 
-### What are the benefits for end user?
+### What are the benefits for the end user?
 
 A list of benefits X brings to the end user:
 
@@ -14,13 +14,13 @@ A list of benefits X brings to the end user:
 * This part of X is new because...
 * This part of X is special because...
 
-### Who is intended audience?
+### Who is the intended audience?
 
 X is for:
 
-* Content holders?
-* Preservation experts?
-* Institutions that would like to do this...
+* Content holders? (specify if possible)
+* Preservation experts? (specify if possible)
+* Institutions that would like to ... (be as specific as possible)
 
 ## Features and roadmap
 
