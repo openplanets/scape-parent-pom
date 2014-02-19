@@ -27,14 +27,20 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
             <distribution>repo</distribution>
         </license>
     </licenses>
+
+    <scm>
+        <url>https://github.com/blekinge/scape-setup</url>
+        <connection>scm:git:https://github.com/blekinge/scape-setup.git</connection>
+        <developerConnection>scm:git:git@github.com:blekinge/scape-setup.git</developerConnection>
+    </scm>
+
+
     <inceptionYear>2010</inceptionYear>
     <ciManagement>
         <system>Jenkins, hosted by OPF</system>
         <url>http://jenkins.opf-labs.org</url>
     </ciManagement>
-    <scm>
-        <url>http://github.com/openplanets</url>
-    </scm>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.build.timestamp.format>yyyy</maven.build.timestamp.format>
